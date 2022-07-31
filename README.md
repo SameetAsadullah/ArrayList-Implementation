@@ -1,2 +1,2 @@
 # ArrayList-Implementation
-My own C++ implementation of ArrayList
+My own templatized C++ implementation of ArrayList
